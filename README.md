@@ -33,6 +33,9 @@ I am a newbie developer with a wide variety of interests, including games, web s
 ![unity](https://user-images.githubusercontent.com/55977034/111595911-f1f22f80-880f-11eb-8d15-bb353962f5ac.png)
 ![unreal-engine](https://user-images.githubusercontent.com/55977034/111595913-f28ac600-880f-11eb-8f9a-eab9df4aaa0b.png)
 ![aws](https://user-images.githubusercontent.com/55977034/111596436-8066b100-8810-11eb-959b-578ee3e5285b.png)
+![sqlite](https://user-images.githubusercontent.com/55977034/111596537-9f654300-8810-11eb-91d4-3a3496959255.png)
+![android](https://user-images.githubusercontent.com/55977034/111596691-c6bc1000-8810-11eb-8671-663c19f42846.png)
+![windows](https://user-images.githubusercontent.com/55977034/111596747-d89db300-8810-11eb-9ccd-1f6945de89d1.png)
 
 ## Git Status
 ![Kijung-Luke-Kim's github stats](https://github-readme-stats.vercel.app/api?username=Kijung-Luke-Kim&show_icons=true)
