@@ -1,22 +1,37 @@
+![header](https://github.com/Kijung-Luke-Kim/Kijung-Luke-Kim/blob/main/header.png?raw=true)
 
-
-## Software Engineer  👨‍💻 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKijung-Luke-Kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## I am a noob Software Engineer  👨‍💻 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKijung-Luke-Kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 I am a newbie developer with a wide variety of interests, including games, web services, and embedded softwares. 
 
-Recently graduated from HUFS Seoul - Majoring in International Economics and Law with a dual degree on Computer Engineering.
+> Recently graduated from HUFS Seoul - Majoring in International Economics and Law with a dual degree on Computer Engineering.
 
-Currently looking for opportunity to develop fun 😄 and useful 🔥 softwares in the industry
+> Currently looking for opportunity to develop fun 😄 and useful 🔥 softwares in the industry
 
 ## Languages I have used
 
-- C C++ C# Java HTML5 CSS JavaScript Python SQL
-
+![c](https://user-images.githubusercontent.com/55977034/111595716-bfe0cd80-880f-11eb-9bf9-2fa7de445c64.png)
+![c++](https://user-images.githubusercontent.com/55977034/111595720-c111fa80-880f-11eb-9652-468046d8af84.png)
+![c#](https://user-images.githubusercontent.com/55977034/111595731-c2dbbe00-880f-11eb-94ed-5e8f0c1af6d1.png)
+![python](https://user-images.githubusercontent.com/55977034/111595729-c2dbbe00-880f-11eb-9e23-8cda559fde7f.png)
+![java](https://user-images.githubusercontent.com/55977034/111595723-c1aa9100-880f-11eb-970a-499c03659979.png)
+![html](https://user-images.githubusercontent.com/55977034/111595722-c1aa9100-880f-11eb-846d-a4fc4c897df3.png)
+![css](https://user-images.githubusercontent.com/55977034/111595721-c111fa80-880f-11eb-80f5-86636897c373.png)
+![javascript](https://user-images.githubusercontent.com/55977034/111595724-c2432780-880f-11eb-8329-1aa21767ee98.png)
+![mysql](https://user-images.githubusercontent.com/55977034/111595726-c2432780-880f-11eb-92e2-2a9b853f0c82.png)
+![oracle](https://user-images.githubusercontent.com/55977034/111595727-c2432780-880f-11eb-860c-0642925dd276.png)
 
 ## Some of the technologies I have worked with
 
-- Git GitHub jQuery Spring JSP PyQt Django Unity Unreal
-
+![django](https://user-images.githubusercontent.com/55977034/111595889-ef8fd580-880f-11eb-80a1-9a8b08857261.png)
+![git](https://user-images.githubusercontent.com/55977034/111595894-f0286c00-880f-11eb-9056-e0f8c616b09e.png)
+![github](https://user-images.githubusercontent.com/55977034/111595897-f0c10280-880f-11eb-8597-4cbf63f87e52.png)
+![jquery](https://user-images.githubusercontent.com/55977034/111595900-f0c10280-880f-11eb-8155-b3e6821c770d.png)
+![jsp](https://user-images.githubusercontent.com/55977034/111595902-f1599900-880f-11eb-9bf6-631180c7faba.png)
+![pyqt](https://user-images.githubusercontent.com/55977034/111595905-f1599900-880f-11eb-8d03-f0444fd981c2.png)
+![spring](https://user-images.githubusercontent.com/55977034/111595907-f1f22f80-880f-11eb-8a93-8a13af2c1de7.png)
+![unity](https://user-images.githubusercontent.com/55977034/111595911-f1f22f80-880f-11eb-8d15-bb353962f5ac.png)
+![unreal-engine](https://user-images.githubusercontent.com/55977034/111595913-f28ac600-880f-11eb-8f9a-eab9df4aaa0b.png)
 
 ## Git Status
 ![Kijung-Luke-Kim's github stats](https://github-readme-stats.vercel.app/api?username=Kijung-Luke-Kim&show_icons=true)
