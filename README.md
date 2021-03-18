@@ -32,6 +32,7 @@ I am a newbie developer with a wide variety of interests, including games, web s
 ![spring](https://user-images.githubusercontent.com/55977034/111595907-f1f22f80-880f-11eb-8a93-8a13af2c1de7.png)
 ![unity](https://user-images.githubusercontent.com/55977034/111595911-f1f22f80-880f-11eb-8d15-bb353962f5ac.png)
 ![unreal-engine](https://user-images.githubusercontent.com/55977034/111595913-f28ac600-880f-11eb-8f9a-eab9df4aaa0b.png)
+![aws](https://user-images.githubusercontent.com/55977034/111596436-8066b100-8810-11eb-959b-578ee3e5285b.png)
 
 ## Git Status
 ![Kijung-Luke-Kim's github stats](https://github-readme-stats.vercel.app/api?username=Kijung-Luke-Kim&show_icons=true)
