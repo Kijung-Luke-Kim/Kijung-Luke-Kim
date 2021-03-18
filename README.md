@@ -24,13 +24,14 @@ I am a newbie developer with a wide variety of interests, including games, web s
 
 ## Some of the technologies I have worked with
 
-![django](https://user-images.githubusercontent.com/55977034/111595889-ef8fd580-880f-11eb-80a1-9a8b08857261.png)
 ![git](https://user-images.githubusercontent.com/55977034/111595894-f0286c00-880f-11eb-9056-e0f8c616b09e.png)
 ![github](https://user-images.githubusercontent.com/55977034/111595897-f0c10280-880f-11eb-8597-4cbf63f87e52.png)
-![jquery](https://user-images.githubusercontent.com/55977034/111595900-f0c10280-880f-11eb-8155-b3e6821c770d.png)
-![jsp](https://user-images.githubusercontent.com/55977034/111595902-f1599900-880f-11eb-9bf6-631180c7faba.png)
+![django](https://user-images.githubusercontent.com/55977034/111595889-ef8fd580-880f-11eb-80a1-9a8b08857261.png)
 ![pyqt](https://user-images.githubusercontent.com/55977034/111595905-f1599900-880f-11eb-8d03-f0444fd981c2.png)
 ![spring](https://user-images.githubusercontent.com/55977034/111595907-f1f22f80-880f-11eb-8a93-8a13af2c1de7.png)
+![bootstrap](https://user-images.githubusercontent.com/55977034/111611852-3dacd500-8820-11eb-9003-04944e49e2da.png)
+![jquery](https://user-images.githubusercontent.com/55977034/111595900-f0c10280-880f-11eb-8155-b3e6821c770d.png)
+![jsp](https://user-images.githubusercontent.com/55977034/111595902-f1599900-880f-11eb-9bf6-631180c7faba.png)
 ![unity](https://user-images.githubusercontent.com/55977034/111595911-f1f22f80-880f-11eb-8d15-bb353962f5ac.png)
 ![unreal-engine](https://user-images.githubusercontent.com/55977034/111595913-f28ac600-880f-11eb-8f9a-eab9df4aaa0b.png)
 ![aws](https://user-images.githubusercontent.com/55977034/111596436-8066b100-8810-11eb-959b-578ee3e5285b.png)
