@@ -8,12 +8,15 @@ I am a newbie developer with a wide variety of interests, including games, web s
 
 > Currently looking for opportunity to develop fun 😄 and useful 🔥 softwares in the industry
 
-## Languages I have used
+## Languages I am confident with
 
 ![c](https://user-images.githubusercontent.com/55977034/111595716-bfe0cd80-880f-11eb-9bf9-2fa7de445c64.png)
 ![c++](https://user-images.githubusercontent.com/55977034/111595720-c111fa80-880f-11eb-9652-468046d8af84.png)
-![c#](https://user-images.githubusercontent.com/55977034/111595731-c2dbbe00-880f-11eb-94ed-5e8f0c1af6d1.png)
 ![python](https://user-images.githubusercontent.com/55977034/111595729-c2dbbe00-880f-11eb-9e23-8cda559fde7f.png)
+
+## Languages I have used
+
+![c#](https://user-images.githubusercontent.com/55977034/111595731-c2dbbe00-880f-11eb-94ed-5e8f0c1af6d1.png)
 ![java](https://user-images.githubusercontent.com/55977034/111595723-c1aa9100-880f-11eb-970a-499c03659979.png)
 ![html](https://user-images.githubusercontent.com/55977034/111595722-c1aa9100-880f-11eb-846d-a4fc4c897df3.png)
 ![css](https://user-images.githubusercontent.com/55977034/111595721-c111fa80-880f-11eb-80f5-86636897c373.png)
