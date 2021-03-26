@@ -12,6 +12,15 @@ I am a newbie developer with a wide variety of interests, including games, web s
 
 > Currently looking for opportunity to develop fun 😄 and useful 🔥 softwares in the industry
 
+- 🔭 I’m currently working on games and web services.
+- 🌱 I’m currently learning Unreal Engine and Spring Framework.
+- 👯 I’m looking to collaborate on developing games using commercial engines.
+- 🤔 I’m looking for help with effective programming architectures.
+- 💬 Ask me about ANYTHING.
+- 📫 How to reach me: rlwjd1504@gmail.com
+- 😄 Pronouns: Eager to learn, Challenging, Pssionate.
+- ⚡ Fun fact: I am Silver 2 in LOL.
+
 ## Languages I am confident with
 
 ![c](https://user-images.githubusercontent.com/55977034/111595716-bfe0cd80-880f-11eb-9bf9-2fa7de445c64.png)
@@ -60,10 +69,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on games and web services.
 - 🌱 I’m currently learning Unreal Engine and Spring Framework.
-- 👯 I’m looking to collaborate on developing games using .
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on developing games using commercial engines.
+- 🤔 I’m looking for help with effective programming architectures.
+- 💬 Ask me about ANYTHING.
 - 📫 How to reach me: rlwjd1504@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Eager to learn, Challenging, Pssionate.
+- ⚡ Fun fact: I am Silver 2 in LOL.
 -->
