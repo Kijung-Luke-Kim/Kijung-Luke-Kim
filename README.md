@@ -1,8 +1,9 @@
 ![header](https://github.com/Kijung-Luke-Kim/Kijung-Luke-Kim/blob/main/header.png?raw=true)
 
 # Programming Portfolio
+<!--
 - 한국어 ver. [김기정 종합 포트폴리오.pdf](https://github.com/Kijung-Luke-Kim/Kijung-Luke-Kim/blob/main/%EC%A2%85%ED%95%A9%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
-
+-->
 ## I am a noob Software Engineer  👨‍💻 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKijung-Luke-Kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Newbie developer with a wide variety of interests, including games, web services, and embedded softwares. 
