@@ -19,7 +19,6 @@ Newbie developer with a wide variety of interests, including games, web services
 - 💬 Ask me about ANYTHING.
 - 📫 How to reach me: rlwjd1504@gmail.com
 - 😄 Pronouns: Eager to learn, Challenging, Pssionate.
-- ⚡ Fun fact: I am Silver 1 in LOL.
 
 ## Languages I am confident with
 
