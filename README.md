@@ -34,8 +34,8 @@ Newbie developer with a wide variety of interests, including games, web services
 ![css](https://user-images.githubusercontent.com/55977034/111595721-c111fa80-880f-11eb-80f5-86636897c373.png)
 ![javascript](https://user-images.githubusercontent.com/55977034/111595724-c2432780-880f-11eb-8329-1aa21767ee98.png)
 ![mysql](https://user-images.githubusercontent.com/55977034/111595726-c2432780-880f-11eb-92e2-2a9b853f0c82.png)
-![oracle](https://user-images.githubusercontent.com/55977034/111595727-c2432780-880f-11eb-860c-0642925dd276.png)
 ![sqlite](https://user-images.githubusercontent.com/55977034/111596537-9f654300-8810-11eb-91d4-3a3496959255.png)
+<!--![oracle](https://user-images.githubusercontent.com/55977034/111595727-c2432780-880f-11eb-860c-0642925dd276.png)-->
 
 ## Some of the technologies I have worked with
 
@@ -49,9 +49,9 @@ Newbie developer with a wide variety of interests, including games, web services
 ![jsp](https://user-images.githubusercontent.com/55977034/111595902-f1599900-880f-11eb-9bf6-631180c7faba.png)
 ![unity](https://user-images.githubusercontent.com/55977034/111595911-f1f22f80-880f-11eb-8d15-bb353962f5ac.png)
 ![unreal-engine](https://user-images.githubusercontent.com/55977034/111595913-f28ac600-880f-11eb-8f9a-eab9df4aaa0b.png)
-![aws](https://user-images.githubusercontent.com/55977034/111596436-8066b100-8810-11eb-959b-578ee3e5285b.png)
 ![android](https://user-images.githubusercontent.com/55977034/111596691-c6bc1000-8810-11eb-8671-663c19f42846.png)
 ![windows](https://user-images.githubusercontent.com/55977034/111596747-d89db300-8810-11eb-9ccd-1f6945de89d1.png)
+<!--![aws](https://user-images.githubusercontent.com/55977034/111596436-8066b100-8810-11eb-959b-578ee3e5285b.png)-->
 
 ## Git Status
 ![Kijung-Luke-Kim's github stats](https://github-readme-stats.vercel.app/api?username=Kijung-Luke-Kim&show_icons=true)
